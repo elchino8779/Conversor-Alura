@@ -19,7 +19,7 @@
     <h2>💾 Datos:</h2>
     <br>
         Convierte de pesos argentinos a diferentes divisas y viceversa <br>
-        Convierte temperaturas Celsius, Fahrenheit, y Kelvin entre ellas <br>
+        Convierte temperaturas Celsius, Fahrenheit y Kelvin entre ellas <br>
         Convierte longitudes de metros, kilometros y millas entre ellas <br>
 </div>
 
