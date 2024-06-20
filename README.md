@@ -4,18 +4,18 @@
 
 
 
-<div id="Caracteristicas">
+<div id="datos">
     <h3>✔️ Datos:</h3>
     <p>
-        🔹 Desarrollado en el lenguaje de programacion Java <br>
-        🔹 Convierte unidades de divisas, longitud y temperatura <br>
-        🔹 Este proyecto fue creado para la formacion Back-End de la plataforma <a href="https://www.aluracursos.com/" target="_blank">Alura Latam</a>
+        🔹 Este proyecto fue creado para la formación Back-End de la plataforma <a href="https://www.aluracursos.com/" target="_blank">Alura Latam</a> <br>
+        🔹 Desarrollado en el lenguaje de programación Java <br>
+        🔹 Convierte unidades de divisas, longitud y temperatura
     </p>
 </div>
 
 ---
 
-<div id="datos">
+<div id="caracteristicas">
     <h3>⚙️ Caracteristicas:</h3>
     <p>
         🔸 Convierte de pesos argentinos a diferentes divisas <br>
