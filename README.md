@@ -2,47 +2,34 @@
     <h1 align="center">Conversor Alura</h1>
 </div>
 
----
 
-<div id="Caracteristicas" align="center">
-    <h2 align="center"> 🛠️ Especificaciones:</h2>
-    <h3>
-        Este proyecto fue creado para la formacion de Alura Latam Back-End. <br>
-        Desarrollado totalmente en el lenguaje de programacion Java. <br>
-        Convierte unidades de divisas, longitud y temperatura.
-    </h3>
+
+<div id="Caracteristicas">
+    <h3>✔️ Datos:</h3>
+    <p>
+        🔹 Desarrollado en el lenguaje de programacion Java <br>
+        🔹 Convierte unidades de divisas, longitud y temperatura <br>
+        🔹 Este proyecto fue creado para la formacion Back-End de la plataforma Alura Latam
+    </p>
 </div>
 
 ---
 
-<div id="datos" align="center">
-    <h2>💾 Datos:</h2>
-    <br>
-        Convierte de pesos argentinos a diferentes divisas y viceversa <br>
-        Convierte temperaturas Celsius, Fahrenheit y Kelvin entre ellas <br>
-        Convierte longitudes de metros, kilometros y millas entre ellas <br>
+<div id="datos">
+    <h3>⚙️ Caracteristicas:</h3>
+    <p>
+        🔸 Convierte de pesos argentinos a diferentes divisas <br>
+        🔸 Convierte temperaturas Celsius, Fahrenheit y Kelvin <br>
+        🔸 Convierte longitudes de metros, kilometros y millas <br>
+    </p>
 </div>
 
 ---
 
 <div id="capturas" align="center">
-    <br>
-    <h2> 📷 Capturas:</h2>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ConversorAlura/pantalla1.png?raw=true" alt="Cap1">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ConversorAlura/pantalla2.png?raw=true" alt="Cap2">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ConversorAlura/pantalla3.png?raw=true" alt="Cap3">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ConversorAlura/pantalla4.png?raw=true" alt="Cap4">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ConversorAlura/pantalla5.png?raw=true" alt="Cap5">
-    <br>
-    <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ConversorAlura/pantalla6.png?raw=true" alt="Cap6">
+    <h3 align="left"> 📷 Capturas:</h3>
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConversorAluraJava/img01.png?raw=true" alt="Cap1" width="700">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConversorAluraJava/img02.png?raw=true" alt="Cap2" width="700">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConversorAluraJava/img03.png?raw=true" alt="Cap3" width="700">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConversorAluraJava/img04.png?raw=true" alt="Cap4" width="700">
 </div>
