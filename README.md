@@ -9,7 +9,7 @@
     <p>
         🔹 Desarrollado en el lenguaje de programacion Java <br>
         🔹 Convierte unidades de divisas, longitud y temperatura <br>
-        🔹 Este proyecto fue creado para la formacion Back-End de la plataforma Alura Latam
+        🔹 Este proyecto fue creado para la formacion Back-End de la plataforma <a href="https://www.aluracursos.com/" target="_blank">Alura Latam</a>
     </p>
 </div>
 
