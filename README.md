@@ -31,5 +31,5 @@
     <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConversorAluraJava/img01.png?raw=true" alt="Cap1" width="700">
     <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConversorAluraJava/img02.png?raw=true" alt="Cap2" width="700">
     <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConversorAluraJava/img03.png?raw=true" alt="Cap3" width="700">
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConversorAluraJava/img04.png?raw=true" alt="Cap4" width="700">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/ConversorAluraJava/img04.png?raw=true" alt="Cap4" width="900">
 </div>
